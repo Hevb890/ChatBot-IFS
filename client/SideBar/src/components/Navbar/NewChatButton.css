@@ -1,0 +1,19 @@
+
+.newchatbutton{
+    background-color: #8427E2;
+    display: flex;
+    color: #fff;
+    padding: 10px 20px 10px 10px;
+    font-size: 12px;
+    max-width: fit-content;
+    border-radius: 40px;
+}
+
+.newchatbutton p{
+    font-weight: lighter;
+    padding-left: 6px;
+}
+
+.newchatbutton:hover{
+    cursor: pointer;
+}

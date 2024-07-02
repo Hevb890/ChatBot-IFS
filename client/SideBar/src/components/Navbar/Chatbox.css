@@ -1,0 +1,27 @@
+.chatBoxWrap{
+    height: 90%;
+    width: 100%;
+    overflow: scroll;
+}
+.mainBox{
+    height: 90%;
+    width: 100%;
+    padding-top: 5%;
+    padding-left: 5%;
+    -moz-box-shadow: 0 0 3px #ccc;
+    -webkit-box-shadow: 0 0 3px #ccc;
+    box-shadow: 0 0 3px #ccc;
+}
+.input-section{
+    display: flex;
+    justify-content: center;
+}
+.chatbotlogo{
+    height: 70%;
+    max-width: fit-content;
+    background-color: #8427E2;
+    border-radius: 10%;
+}
+.chatbotlogo img{
+    height: 100%;
+}

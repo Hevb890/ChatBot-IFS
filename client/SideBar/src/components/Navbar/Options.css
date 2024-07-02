@@ -1,0 +1,11 @@
+
+.optionsWrap{
+    display: flex;
+    color: #8427E2;
+    font-size: 18px;
+    padding: 20px;
+}
+
+.headphones,.settings{
+    padding-left: 20px;
+}

@@ -1,0 +1,9 @@
+.deleteIconWrap{
+    max-width: fit-content;
+    margin-top: 5px;
+    color: #979696;
+}
+
+.deleteIconWrap:hover{
+    color: #000;
+}

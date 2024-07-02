@@ -1,0 +1,11 @@
+.backhomebuttonwrap{
+    display: flex;
+    border: 0.5px solid #979696;
+    border-radius: 10px;
+    max-width: fit-content;
+    padding: 10px 15px;
+    color: #7A7A7A;
+}
+.backhomebutton{
+    margin-bottom: 10px ;
+}

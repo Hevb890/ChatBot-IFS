@@ -1,0 +1,10 @@
+.avatarImageWrap{
+    border-radius: 100px;
+    overflow: hidden;
+    display: flex;
+    max-width: 55px;
+}
+
+.avatarImageWrap img{
+    max-height: 53px;
+}

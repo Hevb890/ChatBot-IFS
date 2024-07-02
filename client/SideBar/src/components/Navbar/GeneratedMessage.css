@@ -1,0 +1,17 @@
+
+.generatedMessageMainWrap{
+    display: flex;
+    max-height: fit-content;
+    padding: 15px;
+
+}
+
+.generatedMessageContent{
+    min-width: 100px;
+    max-height: fit-content;
+    color: #656262;
+    border-radius: 5px 30px 30px;
+    font-size: 14px;
+    font-weight: lighter;
+    padding: 12px;
+}

@@ -1,0 +1,38 @@
+.inputMessageWrap{
+    border: 1px solid #ccc;
+    max-width: 640px;
+    min-height: 35px;
+    border-radius: 15px;
+    padding: 3px 3px 3px 10px;
+    display: flex;
+}
+
+.inputMessageWrap input{
+    border: none;
+    min-width: 600px;
+}
+
+.inputMessageWrap input:focus{
+    outline: none;
+}
+
+.inputMessageWrap input:focus::placeholder {
+    color: transparent;
+  }
+
+.sendButton{
+    background-color: #ccc;
+    max-width: fit-content;
+    border-radius: 100%;
+    border: none;
+    padding: 5px;
+    padding-top: 8px;
+    color: #fff;
+}
+
+.sendButton:hover{
+    cursor:pointer;
+    color: #000;
+    background-color: #fff;
+    border: #000 0.01px solid;
+}

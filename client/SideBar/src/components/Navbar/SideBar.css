@@ -1,0 +1,36 @@
+.main-container{
+    height: 90%;
+    width: 30vw;
+    background-color: #FBF7FF;
+}
+
+.side-bar-main{
+    height: 100%;
+}
+.sidebar-section-1{
+    display: flex;
+    width: 100%;
+}
+
+.sidebar-section-1,.sidebar-section-2,.sidebar-section-3{
+    padding: 10px;
+}
+
+.sidebar-section-2{
+    height: 80%;
+}
+
+.recent-chat-section{
+    height: 90%;
+    overflow: scroll;
+}
+
+.profile{
+    display: flex;
+}
+
+.recent-chat-section-para{
+    color: #656262;
+    font-size: 11px;
+    padding: 10px 0 0 5px;
+}

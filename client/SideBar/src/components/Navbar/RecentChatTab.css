@@ -1,0 +1,25 @@
+.recentchatwrap{
+    background-color: #F1F1F1;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 5px;
+    display: flex;
+    border-radius: 80px;
+    padding: 4px;
+}
+
+.recentChatName{
+    color: #656262;
+    font-size: 12px;
+    padding: 5px 4px 0 9px;
+    width: 85%;
+}
+
+.recentchatwrap:hover{
+    color: #000;
+    background-color: #fff;
+}
+.recentchatwrap.selected{
+    background-color: #ECDCF9;
+    color: #fff;
+}

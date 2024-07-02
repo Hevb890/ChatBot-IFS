@@ -1,0 +1,17 @@
+
+.messageMainWrap{
+    display: flex;
+    max-height: fit-content;
+    padding: 15px;
+}
+
+.messageContent{
+    min-width: 100px;
+    max-height: fit-content;
+    background-color: #8427E2;
+    color: #fff;
+    border-radius: 5px 30px 30px;
+    font-size: 14px;
+    font-weight: lighter;
+    padding: 12px;
+}
