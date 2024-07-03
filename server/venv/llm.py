@@ -12,7 +12,7 @@ from langchain_core.messages import AIMessage, HumanMessage
 load_dotenv()
 
 
-os.environ['ACTIVELOOP_TOKEN'] = "eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJpZCI6ImhldmluZHUiLCJhcGlfa2V5IjoiYVdxS0dUWmhhUngwYXpENGR2LW9Mdlp3dThraDAxeE1vNzRrQjNjTDBvWEI3In0."
+os.environ['ACTIVELOOP_TOKEN'] = "Active_Loop_API_Key"
 dataset_path = "hub://hevindu/project"
 
 llm = ChatOpenAI(model="gpt-3.5-turbo-0125", temperature=0)
